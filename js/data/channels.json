@@ -1,0 +1,1872 @@
+[
+  {
+    "ID": 0, "Call_Sign": "WATC DT",
+    "Affiliate": "Religious",
+    "Virtual_Channel": 57.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "85.98°",
+    "Distance": "15.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "POINT",
+    "Affiliate": "Religious",
+    "Virtual_Channel": 57.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "85.98°",
+    "Distance": "15.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "THELOOP",
+    "Affiliate": "Classic Shows",
+    "Virtual_Channel": 57.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "85.98°",
+    "Distance": "15.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "GR8RLOV",
+    "Affiliate": "Greater Love TV",
+    "Virtual_Channel": 57.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "85.98°",
+    "Distance": "15.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ION",
+    "Affiliate": "ION",
+    "Virtual_Channel": 14.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "CourtTV",
+    "Affiliate": "Court TV",
+    "Virtual_Channel": 14.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Laff",
+    "Affiliate": "Laff",
+    "Virtual_Channel": 14.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Mystery",
+    "Affiliate": "ION Mystery",
+    "Virtual_Channel": 14.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "IONPlus",
+    "Affiliate": "ION Plus",
+    "Virtual_Channel": 14.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SCRIPPS",
+    "Affiliate": "Scripps News",
+    "Virtual_Channel": 14.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Jewelry",
+    "Affiliate": "Jewelry TV",
+    "Virtual_Channel": 14.7,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "HSN",
+    "Affiliate": "HSN2",
+    "Virtual_Channel": 14.8,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "12.87°",
+    "Distance": "18.58 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUPA-HD",
+    "Affiliate": "Independent",
+    "Virtual_Channel": 69.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "StartTV",
+    "Affiliate": "Start TV",
+    "Virtual_Channel": 69.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TBD.",
+    "Affiliate": "TBD",
+    "Virtual_Channel": 69.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "MeTV",
+    "Affiliate": "Me-TV",
+    "Virtual_Channel": 69.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "FAVE",
+    "Affiliate": "Fave TV",
+    "Virtual_Channel": 69.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Charge!",
+    "Affiliate": "Charge!",
+    "Virtual_Channel": 69.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "H & I",
+    "Affiliate": "Heroes & Icons",
+    "Virtual_Channel": 69.7,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WSB HD",
+    "Affiliate": "ABC",
+    "Virtual_Channel": 2.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WAGA HD",
+    "Affiliate": "FOX",
+    "Virtual_Channel": 5.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WXIA-TV",
+    "Affiliate": "NBC",
+    "Virtual_Channel": 11.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WPCH-TV",
+    "Affiliate": "CW",
+    "Virtual_Channel": 17.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WANF",
+    "Affiliate": "CBS",
+    "Virtual_Channel": 46.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "HSN",
+    "Affiliate": "HSN",
+    "Virtual_Channel": 45.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "QVC",
+    "Affiliate": "QVC",
+    "Virtual_Channel": 45.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "HSN2",
+    "Affiliate": "HSN2",
+    "Virtual_Channel": 45.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "QVC2",
+    "Affiliate": "QVC2",
+    "Virtual_Channel": 45.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "QVC3",
+    "Affiliate": "QVC3",
+    "Virtual_Channel": 45.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WPCH-TV",
+    "Affiliate": "CW",
+    "Virtual_Channel": 17.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WPCH-SD",
+    "Affiliate": "CW",
+    "Virtual_Channel": 17.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WANF-TV",
+    "Affiliate": "CBS",
+    "Virtual_Channel": 46.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "COZI",
+    "Affiliate": "COZI TV",
+    "Virtual_Channel": 46.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Grit",
+    "Affiliate": "Grit",
+    "Virtual_Channel": 46.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WKTB",
+    "Affiliate": "??",
+    "Virtual_Channel": 47.01,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ESTRLA",
+    "Affiliate": "Estrella TV",
+    "Virtual_Channel": 26.01,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "BIZ TV",
+    "Affiliate": "Biz TV",
+    "Virtual_Channel": 26.02,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "JTV",
+    "Affiliate": "GODtribe TV",
+    "Virtual_Channel": 26.03,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "F24",
+    "Affiliate": "NTD America",
+    "Virtual_Channel": 26.04,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "AMG",
+    "Affiliate": "Corner Store TV",
+    "Virtual_Channel": 26.05,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Moxie",
+    "Affiliate": "Charge!",
+    "Virtual_Channel": 26.06,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Ventana TV",
+    "Affiliate": "Ventana TV",
+    "Virtual_Channel": 26.07,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "LATV",
+    "Affiliate": "LATV",
+    "Virtual_Channel": 26.08,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Telemax",
+    "Affiliate": "Telemax",
+    "Virtual_Channel": 26.09,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "[Blank]",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 26.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "France24",
+    "Affiliate": "France24",
+    "Virtual_Channel": 26.11,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "CBN News",
+    "Virtual_Channel": 28.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "Defy TV",
+    "Virtual_Channel": 28.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "Salem News Channel",
+    "Virtual_Channel": 28.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "Shop LC",
+    "Virtual_Channel": 28.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "The365",
+    "Virtual_Channel": 28.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDWW-LD",
+    "Affiliate": "Outlaw",
+    "Virtual_Channel": 28.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVG-DT",
+    "Affiliate": "Univision",
+    "Virtual_Channel": 34.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "UNM-HD",
+    "Affiliate": "UniMás",
+    "Virtual_Channel": 34.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "getTV",
+    "Affiliate": "GET",
+    "Virtual_Channel": 34.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Nosey",
+    "Affiliate": "Nosey",
+    "Virtual_Channel": 34.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ShopLC",
+    "Affiliate": "Shop LC",
+    "Virtual_Channel": 34.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "NVSN",
+    "Affiliate": "NuestraVisión",
+    "Virtual_Channel": 34.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "APG",
+    "Affiliate": "Guide",
+    "Virtual_Channel": 32.01,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "PURPL",
+    "Affiliate": "Purple TV",
+    "Virtual_Channel": 32.02,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "JTV",
+    "Affiliate": "Fun Roads",
+    "Virtual_Channel": 32.03,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Moxie",
+    "Affiliate": "Right Now TV",
+    "Virtual_Channel": 32.04,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "OLDIE",
+    "Affiliate": "ACE TV",
+    "Virtual_Channel": 32.05,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "??",
+    "Affiliate": "Bark TV",
+    "Virtual_Channel": 32.06,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Quest",
+    "Affiliate": "Quest",
+    "Virtual_Channel": 11.02,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WXIA-TV",
+    "Affiliate": "NBC",
+    "Virtual_Channel": 11.11,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WATL",
+    "Affiliate": "MyN",
+    "Virtual_Channel": 36.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "NOSEY",
+    "Affiliate": "Nosey",
+    "Virtual_Channel": 36.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Antenna",
+    "Affiliate": "Antenna TV",
+    "Virtual_Channel": 36.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "QVC",
+    "Affiliate": "QVC",
+    "Virtual_Channel": 36.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "UNICHRC",
+    "Affiliate": "Visión Latina",
+    "Virtual_Channel": 21.01,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "JOYTV",
+    "Affiliate": "Religious",
+    "Virtual_Channel": 21.02,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "JTNNEWS",
+    "Affiliate": "News",
+    "Virtual_Channel": 21.03,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "DIYATV",
+    "Affiliate": "Diya TV",
+    "Virtual_Channel": 21.04,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "NTD-TV",
+    "Affiliate": "NTD America",
+    "Virtual_Channel": 21.05,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "BINGETV",
+    "Affiliate": "Binge TV",
+    "Virtual_Channel": 21.06,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "HOPETV",
+    "Affiliate": "Religious",
+    "Virtual_Channel": 21.07,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "REV'N",
+    "Affiliate": "Rev'n",
+    "Virtual_Channel": 21.08,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WLVO-LD",
+    "Affiliate": "Religious",
+    "Virtual_Channel": 21.09,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "127.49°",
+    "Distance": "27.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WAGA-HD",
+    "Affiliate": "FOX",
+    "Virtual_Channel": 5.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "MOVIES!",
+    "Affiliate": "Movies!",
+    "Virtual_Channel": 5.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "BUZZR",
+    "Affiliate": "BUZZR",
+    "Virtual_Channel": 5.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TheGrio",
+    "Affiliate": "The Grio",
+    "Virtual_Channel": 5.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "CATCHY",
+    "Affiliate": "Catchy Comedy",
+    "Virtual_Channel": 5.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "FOX WX",
+    "Affiliate": "FOX Weather",
+    "Virtual_Channel": 5.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "128.17°",
+    "Distance": "28.29 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WSB-HD",
+    "Affiliate": "ABC",
+    "Virtual_Channel": 2.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "BOUNCE",
+    "Affiliate": "Bounce TV",
+    "Virtual_Channel": 2.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Dabl",
+    "Affiliate": "Dabl",
+    "Virtual_Channel": 2.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "COMET",
+    "Affiliate": "Comet TV",
+    "Virtual_Channel": 2.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SCRIPPS",
+    "Affiliate": "Scripps News",
+    "Virtual_Channel": 2.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "COURT",
+    "Affiliate": "Court TV",
+    "Virtual_Channel": 17.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "133.77°",
+    "Distance": "28.6 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WIGLTCT",
+    "Affiliate": "TCT",
+    "Virtual_Channel": 38.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SBN",
+    "Affiliate": "SonLife",
+    "Virtual_Channel": 38.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "MAINST",
+    "Affiliate": "Healing Streams TV",
+    "Virtual_Channel": 38.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "AMG",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 38.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ShopLC",
+    "Affiliate": "Shop LC",
+    "Virtual_Channel": 38.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "ULFN",
+    "Virtual_Channel": 16.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "SonLife",
+    "Virtual_Channel": 16.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "Shop LC",
+    "Virtual_Channel": 16.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "Defy TV",
+    "Virtual_Channel": 16.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "Outlaw",
+    "Virtual_Channel": 16.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "The365",
+    "Virtual_Channel": 16.6,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "Merit Street Media",
+    "Virtual_Channel": 16.7,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WYGA-CD",
+    "Affiliate": "Oxygen",
+    "Virtual_Channel": 16.8,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "APG",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 9.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ESTRLA",
+    "Affiliate": "Guide",
+    "Virtual_Channel": 9.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "RETRO",
+    "Affiliate": "Telemax",
+    "Virtual_Channel": 9.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "LATV",
+    "Affiliate": "YouToo America",
+    "Virtual_Channel": 9.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "YOUTOO",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 9.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "FAITH",
+    "Affiliate": "All Sports TV Network",
+    "Virtual_Channel": 9.6,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SHOP",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 9.7,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WALKTV",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 9.8,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 49.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "Outlaw",
+    "Virtual_Channel": 49.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "MtrSpt1",
+    "Virtual_Channel": 49.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 49.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "The365",
+    "Virtual_Channel": 49.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUEO-LD",
+    "Affiliate": "Defy TV",
+    "Virtual_Channel": 49.7,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "Defy TV",
+    "Virtual_Channel": 4.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "The365",
+    "Virtual_Channel": 4.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 4.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "Outlaw",
+    "Virtual_Channel": 4.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 4.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WUVM-LD",
+    "Affiliate": "[Blank]",
+    "Virtual_Channel": 4.6,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ThisTV",
+    "Affiliate": "France24",
+    "Virtual_Channel": 12.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Charge",
+    "Affiliate": "Charge!",
+    "Virtual_Channel": 12.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "QVC",
+    "Affiliate": "Jewelry TV",
+    "Virtual_Channel": 12.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Oldie",
+    "Affiliate": "Heartland",
+    "Virtual_Channel": 12.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SHOP",
+    "Affiliate": "Retro TV",
+    "Virtual_Channel": 12.5,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Family",
+    "Affiliate": "The Family Channel",
+    "Virtual_Channel": 12.6,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Stz-Tv",
+    "Affiliate": "Action Channel",
+    "Virtual_Channel": 12.7,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "MIX87.7",
+    "Affiliate": "RVTV",
+    "Virtual_Channel": 12.8,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TBN HD",
+    "Affiliate": "TBN",
+    "Virtual_Channel": 63.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Merit",
+    "Affiliate": "Merit Street Media",
+    "Virtual_Channel": 63.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Inspire",
+    "Affiliate": "TBN Inspire",
+    "Virtual_Channel": 63.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "SMILE",
+    "Affiliate": "Smile of a Child",
+    "Virtual_Channel": 63.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "POSITIV",
+    "Affiliate": "Positiv",
+    "Virtual_Channel": 63.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WIRE D1",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 33.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WIRE D2",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 33.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WIRE D3",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 33.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WIRE D4",
+    "Affiliate": "Video Mix TV",
+    "Virtual_Channel": 33.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "??",
+    "Affiliate": "France24",
+    "Virtual_Channel": 6.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDTA",
+    "Affiliate": "Daystar",
+    "Virtual_Channel": 35.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDTA-ES",
+    "Affiliate": "Daystar Español",
+    "Virtual_Channel": 35.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDTA-SD",
+    "Affiliate": "Daystar Reflections",
+    "Virtual_Channel": 35.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "135.54°",
+    "Distance": "29.63 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WABE-TV",
+    "Affiliate": "PBS",
+    "Virtual_Channel": 30.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "132.28°",
+    "Distance": "29.96 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "NHK",
+    "Affiliate": "NHK World",
+    "Virtual_Channel": 30.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "132.28°",
+    "Distance": "29.96 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WXIA-TV",
+    "Affiliate": "NBC",
+    "Virtual_Channel": 11.01,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "Crime",
+    "Affiliate": "True Crime Network",
+    "Virtual_Channel": 11.03,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "NEST",
+    "Affiliate": "The Nest",
+    "Virtual_Channel": 11.04,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "ShopLC",
+    "Affiliate": "Shop LC",
+    "Virtual_Channel": 11.05,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "GetTV",
+    "Affiliate": "GET",
+    "Virtual_Channel": 11.07,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "CourtTV",
+    "Affiliate": "Peachtree Sports Network",
+    "Virtual_Channel": 17.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "132.26°",
+    "Distance": "30.21 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TMDO",
+    "Affiliate": "Telemundo",
+    "Virtual_Channel": 47.02,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TeleX",
+    "Affiliate": "TeleXitos",
+    "Virtual_Channel": 47.03,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "KBS",
+    "Affiliate": "KBS America",
+    "Virtual_Channel": 47.04,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WKTB365",
+    "Affiliate": "The365",
+    "Virtual_Channel": 47.05,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WKTBOUT",
+    "Affiliate": "Outlaw",
+    "Virtual_Channel": 47.06,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "TOONS",
+    "Affiliate": "Me-TV Toons",
+    "Virtual_Channel": 47.07,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "DEFY",
+    "Affiliate": "Defy TV",
+    "Virtual_Channel": 47.08,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "107.16°",
+    "Distance": "31.17 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "KBS24",
+    "Affiliate": "KBS World",
+    "Virtual_Channel": 22.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "98.82°",
+    "Distance": "32.74 mi",
+    "Strength": "Strong"
+  },
+  {
+    "ID": 0, "Call_Sign": "WGTV-DT",
+    "Affiliate": "PBS",
+    "Virtual_Channel": 8.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "117.07°",
+    "Distance": "37.18 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "CREATE",
+    "Affiliate": "Create",
+    "Virtual_Channel": 8.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "117.07°",
+    "Distance": "37.18 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "KNOWLED",
+    "Affiliate": "World Channel",
+    "Virtual_Channel": 8.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "117.07°",
+    "Distance": "37.18 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "KIDS",
+    "Affiliate": "PBS Kids 24/7",
+    "Virtual_Channel": 8.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "117.07°",
+    "Distance": "37.18 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WGGD-LD",
+    "Affiliate": "Daystar",
+    "Virtual_Channel": 23.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "82.91°",
+    "Distance": "45.47 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WGGD-ES",
+    "Affiliate": "Daystar Español",
+    "Virtual_Channel": 23.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "82.91°",
+    "Distance": "45.47 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WGGD-LD",
+    "Affiliate": "Daystar Reflections",
+    "Virtual_Channel": 23.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "82.91°",
+    "Distance": "45.47 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WTHC",
+    "Affiliate": "Tourist Info",
+    "Virtual_Channel": 42.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "159.25°",
+    "Distance": "45.7 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "OAN",
+    "Affiliate": "One America Plus",
+    "Virtual_Channel": 42.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "159.25°",
+    "Distance": "45.7 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "AWE",
+    "Affiliate": "AWE Plus",
+    "Virtual_Channel": 42.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "159.25°",
+    "Distance": "45.7 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WNGH-DT",
+    "Affiliate": "PBS",
+    "Virtual_Channel": 18.1,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "0.44°",
+    "Distance": "48.33 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "CREATE",
+    "Affiliate": "Create",
+    "Virtual_Channel": 18.2,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "0.44°",
+    "Distance": "48.33 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "KNOWLED",
+    "Affiliate": "World Channel",
+    "Virtual_Channel": 18.3,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "0.44°",
+    "Distance": "48.33 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "KIDS",
+    "Affiliate": "PBS Kids 24/7",
+    "Virtual_Channel": 18.4,
+    "Keep": "?",
+    "Band": "VHF",
+    "Heading": "0.44°",
+    "Distance": "48.33 mi",
+    "Strength": "Fair"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDNN",
+    "Affiliate": "Independent",
+    "Virtual_Channel": 49.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "Revn",
+    "Affiliate": "Rev'n",
+    "Virtual_Channel": 49.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "Retro",
+    "Affiliate": "Retro TV",
+    "Virtual_Channel": 49.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "RevFron",
+    "Affiliate": "Infomercials",
+    "Virtual_Channel": 49.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "3ABN",
+    "Affiliate": "3ABN",
+    "Virtual_Channel": 49.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "WDGA-HD",
+    "Affiliate": "Heartland",
+    "Virtual_Channel": 43.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "Antenna TV",
+    "Affiliate": "Antenna TV",
+    "Virtual_Channel": 43.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "340.36°",
+    "Distance": "50.07 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "TBN HD",
+    "Affiliate": "TBN",
+    "Virtual_Channel": 23.1,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "323.51°",
+    "Distance": "66.51 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "Merit",
+    "Affiliate": "Merit Street Media",
+    "Virtual_Channel": 23.2,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "323.51°",
+    "Distance": "66.51 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "Inspire",
+    "Affiliate": "TBN Inspire",
+    "Virtual_Channel": 23.3,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "323.51°",
+    "Distance": "66.51 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "SMILE",
+    "Affiliate": "Smile of a Child",
+    "Virtual_Channel": 23.4,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "323.51°",
+    "Distance": "66.51 mi",
+    "Strength": "Weak"
+  },
+  {
+    "ID": 0, "Call_Sign": "POSITIV",
+    "Affiliate": "Positiv",
+    "Virtual_Channel": 23.5,
+    "Keep": "?",
+    "Band": "UHF",
+    "Heading": "323.51°",
+    "Distance": "66.51 mi",
+    "Strength": "Weak"
+  }
+]
