@@ -5,3 +5,6 @@
   - Zero dependencies -- no Node, no Deno, no Bun, no Typescript, None, Nada
   - Zero network requirements, statically served from Github Pages
 ![alt text](./assets/LocalFirst.png)
+
+## Run on github:
+https://nhrones.github.io/Channels/
